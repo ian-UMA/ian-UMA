@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Ian! 👋</h1>
+  <p>🐈 | I like cats and coding | 💻</p>
+</div>
 
-<!--
-**ian-UMA/ian-UMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Simplicity is prerequisite for reliability.”
 
-Here are some ideas to get you started:
+— Edsger W. Dijkstra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧔 About Me
+
+- 🏫 Computer Science student at [UMA](https://www.uma.edu/)
+
+- ✅ Working with the C language and Lua
+
+- 💻 Linux 4 lyfe
+
+- 🟧 Big [raylib](https://github.com/raysan5/raylib/) enjoyer
+
