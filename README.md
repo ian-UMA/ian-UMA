@@ -13,9 +13,11 @@
 
 - 🏫 Computer Science student at [UMA](https://www.uma.edu/)
 
-- ✅ Working with the C language and Lua
+![UMA logo](https://www.uma.edu/wp-content/uploads/2023/11/Primary.White@2x.png)
 
-- 💻 Linux 4 lyfe
+- ✅ Working with C and Lua languages
+
+- 💻 Linux
 
 - 🟧 Big [raylib](https://github.com/raysan5/raylib/) enjoyer
 
