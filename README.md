@@ -13,7 +13,7 @@
 
 - 🏫 Computer Science student at [UMA](https://www.uma.edu/)
 
-![UMA logo](https://www.uma.edu/wp-content/uploads/2023/11/Primary.White@2x.png)
+![UMA logo](https://github.com/ian-UMA/ian-UMA/blob/main/Primary.White%402x_filled.png)
 
 - ✅ Working with `C` and `Lua` languages
 
